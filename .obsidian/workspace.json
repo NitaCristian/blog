@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be4110cfc29b5976",
+        "id": "aad934eb0b301230",
         "type": "tabs",
         "children": [
           {
-            "id": "e577dd46a821a164",
+            "id": "d0ac96238fc03d94",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Pasted image 20241126133139.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pasted image 20241126133139"
             }
           },
           {
@@ -107,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/Pasted image 20241126133139.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pasted image 20241126133139"
             }
           },
           {
@@ -132,9 +134,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Images/Pasted image 20241126133139.png"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20241126133139"
             }
           }
         ]
@@ -154,8 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e577dd46a821a164",
+  "active": "227c7c6fdcad631f",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Images",
+    "LeetCode/2924. Find Champion II.md",
+    "Welcome.md",
+    "Images/Pasted image 20241126133146.png",
+    "Images/Pasted image 20241126133139.png",
+    "0,1],[1,2.md",
+    "LeetCode"
   ]
 }
