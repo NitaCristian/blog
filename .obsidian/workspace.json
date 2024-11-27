@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "899128855da673ae",
+        "id": "d54a4b619a3f9cd0",
         "type": "tabs",
         "children": [
           {
-            "id": "b0548deaa14bba33",
+            "id": "25de83639e265b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/2924. Find Champion II.md",
+                "file": "LeetCode/3243. Shortest Distance After Road Addition Queries I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2924. Find Champion II"
-            }
-          },
-          {
-            "id": "ae3c0e15ae490a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/2923. Find Champion I.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2923. Find Champion I"
+              "title": "3243. Shortest Distance After Road Addition Queries I"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/2923. Find Champion I.md",
+                "file": "LeetCode/3243. Shortest Distance After Road Addition Queries I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2923. Find Champion I"
+              "title": "Backlinks for 3243. Shortest Distance After Road Addition Queries I"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/2923. Find Champion I.md",
+                "file": "LeetCode/3243. Shortest Distance After Road Addition Queries I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2923. Find Champion I"
+              "title": "Outgoing links from 3243. Shortest Distance After Road Addition Queries I"
             }
           },
           {
@@ -149,18 +134,19 @@
             }
           },
           {
-            "id": "169334800fcc696c",
+            "id": "ae551a013a76c138",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/2923. Find Champion I.md"
+                "file": "LeetCode/3243. Shortest Distance After Road Addition Queries I.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2923. Find Champion I"
+              "title": "Outline of 3243. Shortest Distance After Road Addition Queries I"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,9 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae3c0e15ae490a8c",
+  "active": "25de83639e265b76",
   "lastOpenFiles": [
+    "Images/Pasted image 20241127201747.png",
+    "LeetCode/3243. Shortest Distance After Road Addition Queries I.md",
+    "Templates/LeetCode Solution.md",
     "LeetCode/2924. Find Champion II.md",
+    "Images/Pasted image 20241127201855.png",
+    "Images/Pasted image 20241127201849.png",
+    "Images/Pasted image 20241127201813.png",
+    "Images/Pasted image 20241127201803.png",
+    "Templates",
     "LeetCode/2923. Find Champion I.md",
     "Images/Pasted image 20241126133139.png",
     "Images",
