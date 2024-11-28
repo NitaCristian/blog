@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/3243. Shortest Distance After Road Addition Queries I.md",
+                "file": "LeetCode/2290. Minimum Obstacle Removal to Reach Corner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3243. Shortest Distance After Road Addition Queries I"
+              "title": "2290. Minimum Obstacle Removal to Reach Corner"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "25de83639e265b76",
   "lastOpenFiles": [
+    "LeetCode/3243. Shortest Distance After Road Addition Queries I.md",
+    "LeetCode/2290. Minimum Obstacle Removal to Reach Corner.md",
     "Templates/Approach LeetCode.md",
     "Templates/Solution LeetCode.md",
-    "LeetCode/3243. Shortest Distance After Road Addition Queries I.md",
     "Images/Pasted image 20241127201747.png",
     "LeetCode/2924. Find Champion II.md",
     "Images/Pasted image 20241127201855.png",
