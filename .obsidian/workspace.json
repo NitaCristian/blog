@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/2109. Adding Spaces to a String.md",
+                "file": "LeetCode/1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2109. Adding Spaces to a String"
+              "title": "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "fa8d8b0f3c86fc0e",
   "lastOpenFiles": [
-    "LeetCode/2371. Minimize Maximum Value in a Grid.md",
     "LeetCode/2109. Adding Spaces to a String.md",
+    "LeetCode/2371. Minimize Maximum Value in a Grid.md",
     "LeetCode/773. Sliding Puzzle.md",
     "LeetCode/2097. Valid Arrangement of Pairs.md",
     "LeetCode/2204. Distance to a Cycle in Undirected Graph.md",
