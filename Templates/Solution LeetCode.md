@@ -1,4 +1,3 @@
-
 # Problem Statement
 
 ## Constraints

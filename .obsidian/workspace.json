@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4c960efd13a12d",
+        "id": "794c43fd5a46d81a",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/2337. Move Pieces to Obtain a String.md",
+                "file": "LeetCode/2554. Maximum Number of Integers to Choose From a Range I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2337. Move Pieces to Obtain a String"
+              "title": "2554. Maximum Number of Integers to Choose From a Range I"
             }
           }
         ]
@@ -165,6 +165,8 @@
   },
   "active": "ce1e5e8721fe5933",
   "lastOpenFiles": [
+    "Templates/Solution LeetCode.md",
+    "LeetCode/2554. Maximum Number of Integers to Choose From a Range I.md",
     "LeetCode/2337. Move Pieces to Obtain a String.md",
     "LeetCode/2825. Make String a Subsequence Using Cyclic Increments.md",
     "LeetCode/1346. Check If N and Its Double Exist.md",
@@ -187,7 +189,6 @@
     "ASP.NET Authentication",
     "LeetCode/3243. Shortest Distance After Road Addition Queries I.md",
     "Templates/Approach LeetCode.md",
-    "Templates/Solution LeetCode.md",
     "Images/Pasted image 20241127201747.png",
     "LeetCode/2924. Find Champion II.md",
     "Images/Pasted image 20241127201855.png",
@@ -200,7 +201,6 @@
     "Images",
     "Welcome.md",
     "Images/Pasted image 20241126133146.png",
-    "0,1],[1,2.md",
     "LeetCode"
   ]
 }
