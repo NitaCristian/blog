@@ -1,4 +1,3 @@
 # Approach
-
 ## Code
 ### MySQL

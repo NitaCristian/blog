@@ -1,0 +1,3 @@
+# Monotonic Stack
+## Increasing
+## Decreasing
