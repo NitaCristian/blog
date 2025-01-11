@@ -11,10 +11,14 @@
             "id": "634a9f4027b5da34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/Algorithms/1400. Construct K Palindrome Strings.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1400. Construct K Palindrome Strings"
             }
           }
         ]
@@ -161,6 +165,7 @@
   },
   "active": "634a9f4027b5da34",
   "lastOpenFiles": [
+    "LeetCode/Algorithms/1400. Construct K Palindrome Strings.md",
     "LeetCode/Algorithms/1014. Best Sightseeing Pair.md",
     "LeetCode/Algorithms/1245. Tree Diameter.md",
     "LeetCode/Algorithms/3203. Find Minimum Diameter After Merging Two Trees.md",
@@ -186,7 +191,6 @@
     "LeetCode/SQL/1795. Rearrange Products Table.md",
     "LeetCode/Algorithms/310. Minimum Height Trees.md",
     "LeetCode/Algorithms/1522. Diameter of N-Ary Tree.md",
-    "LeetCode/Algorithms/515. Find Largest Value in Each Tree Row.md",
     "LeetCode/Algorithms",
     "LeetCode/SQL",
     "ASP.NET Authentication",
